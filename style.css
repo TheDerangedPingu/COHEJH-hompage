@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  color: #ffffff;
+}
+    
+body {
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  background: linear-gradient(135deg, #ff9f30c7, #ec3dffc6);
+  background-size: 100%;
+}
+    
+.button {
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: none;
+  color: #000000;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+    
+.button:hover{
+  background: linear-gradient(#c131ff, #ff1b48);
+  color: #ffffff;
+}
+    
+.button:hover i{
+  color: #ffffff;
+}
+
+.bi{
+  color:#DC143C;
+}
+
+.block {
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 40px 68px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
